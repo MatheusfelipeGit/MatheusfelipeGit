@@ -1,18 +1,22 @@
 
-<div align="center">
+<div align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=000000&center=true&vCenter=true&random=false&width=524&lines=Oii,+eu+sou+o+Matheus!+Seja+Bem-vindo!+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0011FF&center=true&vCenter=true&random=false&width=524&lines=Oii,+eu+sou+o+Matheus!+Seja+Bem-vindo!+" alt="Typing SVG">
   </a>
 </div>
 
-<img align="center" alt="" src="./src/header-gif.gif">
+##
 
-<p align="center">Formado em Análise e desenvolvimento de sistemas, e cursando pós em Engenharia de Software e IA! Atualmente trabalho como Dev Júnior em java.
+<img align="left" alt="" src="./src/header-gif.gif">
+
+<p align="left"> 📘 Formado em Análise e desenvolvimento de sistemas, e cursando pós em Engenharia de Software e IA! </p>
+<p align="left"> 💻 Atualmente trabalho como Dev Júnior em java.</p>
+                   
   
 #
 
 
-<h3 align="left">Connect with me!</h3>
+<h3 align="left">Se conecte comigo 👇</h3>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/matheus-felipe-leite-januario/" target="_blank">
@@ -22,9 +26,9 @@
 
 ##
 
-<h3 align="left">My Stack</h3>
+<h3 align="left">Tecnologias de trabalho/estudo 🧑‍💻</h3>
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="39" alt="java logo"  />
   <img width="55" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="39" alt="mysql logo"  />
@@ -42,12 +46,13 @@
 
 ##
 
-<h3 align="left">My stats</h3>
+<h3 align="left">Stats</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matheusfelipegit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="177" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusfelipegit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="215" alt="languages graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=matheusfelipegit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="177" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusfelipegit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="250" width="350" alt="languages graph"  />
 </div>
+
 
 ###
 
