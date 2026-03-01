@@ -9,7 +9,7 @@
 
 <img align="left" alt="" src="./src/header-gif.gif">
 
-<p align="left"> 📘 Formado em Análise e desenvolvimento de sistemas, e cursando pós em Engenharia de Software e IA! </p>
+<p align="left"> 📘 Formado em Análise e desenvolvimento de sistemas, e cursando pós em Engenharia de Software! </p>
 <p align="left"> 💻 Atualmente trabalho como Dev Júnior em java.</p>
                    
   
